@@ -1,6 +1,6 @@
 .idea
 .vscode
-.vs
+.vs/
 cmake-build-*
 build
-out
+out/
